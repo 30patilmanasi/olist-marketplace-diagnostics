@@ -2,7 +2,6 @@
 
 Two analytical projects built on the Olist marketplace dataset, testing ten hypotheses across delivery performance and commercial economics.
 
-**Live dashboards:** [add your Tableau Public links here]
 
 **Toolchain:** SQL (SQLite) → Python (pandas, matplotlib, scipy) → Tableau · Excel · Power BI
 
